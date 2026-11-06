@@ -1,0 +1,36 @@
+{
+  "ok": true,
+  "project": "project-13853552",
+  "generated_at": "2026-09-13 02:47:24",
+  "chrome": "E:\\playwright-browsers\\chromium-1187\\chrome-win\\chrome.exe",
+  "routes": [
+    "/",
+    "/about",
+    "/article/animation-echo-forest-preview",
+    "/article/film-dawn-city-review",
+    "/article/gu-xingye-book-drift-plan",
+    "/article/lin-qingyue-candidate-bird-signal",
+    "/article/livehouse-tour-rising",
+    "/article/lu-shiyan-behind-the-scenes",
+    "/article/overseas-campfire-night-talk",
+    "/article/overseas-lumen-park-renewed",
+    "/article/sci-fi-2026-outlook",
+    "/article/spring-2026-layering-notes",
+    "/article/su-han-red-carpet-wardrobe",
+    "/article/variety-brain-lab-comeback",
+    "/article/variety-slow-life-season-3",
+    "/article/vintage-bag-comeback",
+    "/category/fashion",
+    "/category/film",
+    "/category/music",
+    "/category/overseas",
+    "/category/star",
+    "/category/variety",
+    "/rank"
+  ],
+  "route_count": 23,
+  "missing_assets": [],
+  "warnings": [
+    "缺失的非关键本地资源：/vite.svg"
+  ]
+}
